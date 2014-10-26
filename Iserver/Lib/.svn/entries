@@ -1,0 +1,86 @@
+10
+
+dir
+57559
+http://192.168.1.42/svn/yuncai/stockchat/trunk/python_lib/lib
+http://192.168.1.42/svn/yuncai
+
+
+
+2011-01-06T10:43:25.028336Z
+57518
+zhanglei
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3304c1bb-d2cc-440f-b991-9b218de09018
+
+medal
+dir
+
+t
+dir
+
+queue
+dir
+
+achi
+dir
+
+sso
+dir
+
+__init__.py
+file
+
+
+
+
+2010-10-21T09:54:33.971266Z
+d41d8cd98f00b204e9800998ecf8427e
+2010-10-19T10:34:50.955903Z
+39693
+zhanglei
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+base
+dir
+
+score
+dir
+
+user
+dir
+
