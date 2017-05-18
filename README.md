@@ -1,5 +1,17 @@
+[TOC]
+
 # EasyPy简介
 EasyPy是一个用python编写的网络服务框架（编译版本3.4.1），使用的是epool网络模型
+
+# EasyPy安装
+```
+sudo python install.py
+```
+
+安装完成后会在python库目录里放置一个Library.pth文件，例如
+```
+/usr/lib/python2.7/dist-packages/Library.pth
+```
 
 # 测试机配置
 ```
