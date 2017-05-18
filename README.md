@@ -1,5 +1,5 @@
-# iserver简介
-iserver是一个用python编写的网络服务框架（编译版本3.4.1），使用的是epool网络模型
+# EasyPy简介
+EasyPy是一个用python编写的网络服务框架（编译版本3.4.1），使用的是epool网络模型
 
 # 测试机配置
 ```
